@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hey 👋
 
-<!--
-**noejala/noejala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Noé, passionate about building at the intersection of data, product and AI. I like turning real problems into useful tools, whether it's through analysis, automation or full product development.
+Currently focused on understanding the full product lifecycle, from user needs to technical integration. 👨‍💻
 
-Here are some ideas to get you started:
+## 🔍 What I'm working on
+- FridgeManager: a web app with recipe recommendations and LLM integration in progress
+- AI agents and workflow automation experiments
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Data & AI
+- Business analytics and dashboards
+- Generative AI and LLM integration
+- Workflow automation
+
+## 💻 Stack
+- **Frontend:** React, TypeScript, Vite
+- **Backend/DB:** Supabase, PostgreSQL
+- **Languages:** Python, SQL
+
+## 🧪 Background
+- Business Data Analyst @ Back Market
+- Data Product Owner @ L'Oréal
+- Ingénieur ISEP — Data Science & AI
