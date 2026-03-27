@@ -4,7 +4,7 @@ My name is Noé, passionate about building at the intersection of data, product 
 Currently focused on understanding the full product lifecycle, from user needs to technical integration. 👨‍💻
 
 ## 🔍 What I'm working on
-- FridgeManager: a web app with recipe recommendations and LLM integration in progress
+- FridgeManager: a web app with recipe recommendations and LLM integration
 - AI agents and workflow automation experiments
 
 ## 📊 Data & AI
