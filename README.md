@@ -8,8 +8,9 @@ Currently focused on understanding the full product lifecycle, from user needs t
 - AI agents and workflow automation experiments
 
 ## 📊 Data & AI
-- Business analytics and dashboards
 - Generative AI and LLM integration
+- Data science / ML projects
+- Business analytics and dashboards
 - Workflow automation
 
 ## 💻 Stack
