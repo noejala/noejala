@@ -21,4 +21,4 @@ Currently focused on understanding the full product lifecycle, from user needs t
 ## 🧪 Background
 - Business Data Analyst @ Back Market
 - Data Product Owner @ L'Oréal
-- Ingénieur ISEP — Data Science & AI
+- Ingénieur ISEP | Data Science & AI
